@@ -5,7 +5,7 @@
   "description": "Spotify's base Prettier config",
   "main": "index.js",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.2.1"
   },
   "peerDependencies": {
     "prettier": "1.x"
